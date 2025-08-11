@@ -1,0 +1,40 @@
+{
+  "rooms": [
+    {
+      "room_number": 101,
+      "type": "Deluxe",
+      "price": 3000,
+      "available": false
+    },
+    {
+      "room_number": 102,
+      "type": "Deluxe",
+      "price": 3000,
+      "available": false
+    },
+    {
+      "room_number": 201,
+      "type": "Suite",
+      "price": 4000,
+      "available": true
+    },
+    {
+      "room_number": 202,
+      "type": "Suite",
+      "price": 400,
+      "available": false
+    },
+    {
+      "room_number": 301,
+      "type": "Standard",
+      "price": 2000,
+      "available": false
+    },
+    {
+      "room_number": 303,
+      "type": "Standard",
+      "price": 2000,
+      "available": false
+    }
+  ]
+}
